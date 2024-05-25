@@ -2,6 +2,12 @@
 
 # Default Probability of Credit Card - Taiwan 2006
 
+## Collaborators
+- **Ananya Anand**
+- **Mauro Wang**
+- **Leonardo Trucious**
+- **Lyushen Song**
+- 
 ## Background
 In the 1990s, there was an economic boom related to the development of real estate projects in Taiwan, leading to the creation of new banks to facilitate financing. After a saturation of the real estate sector, bank profits stagnated, prompting banks to develop a business strategy centered on credit card issuance. This strategy involved reducing the usual credit card requirements, leading to a crisis in 2006, where total card debt reached USD 268 billion, affecting over half a million people.
 
