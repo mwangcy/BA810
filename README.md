@@ -2,6 +2,8 @@
 
 # Default Probability of Credit Card - Taiwan 2006
 
+![image](https://github.com/user-attachments/assets/cf474a0b-f6c8-4f6a-b3cf-932b0a0d4fed)
+
 ## Collaborators
 - **Ananya Anand**
 - **Mauro Wang**
